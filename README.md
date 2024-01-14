@@ -1,1 +1,1 @@
-MTA-STS
+MTA-STS — Mail Transfer Agent Strict Transport Security
